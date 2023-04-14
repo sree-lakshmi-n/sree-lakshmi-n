@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sree-lakshmi-n](https://github.com/sree-lakshmi-n)
 
-- 💬 Ask me about **Frontend Web development**
+- 💬 Ask me about **Web development**
 
 - ⚡ Fun fact **I love reading, writing blogs, and doodling.**
 

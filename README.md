@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Piggy Bank App](https://github.com/sree-lakshmi-n/piggy-bank-app.git)
 
-- 🌱 I’m currently learning **JS, ReactJS, and NodeJS**
+- 🌱 I’m currently learning **EmberJS, Scala, and Postgres**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sree-lakshmi-n](https://github.com/sree-lakshmi-n)
 

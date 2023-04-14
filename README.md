@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/its_sreelakshmi" target="blank"><img src="https://img.shields.io/twitter/follow/its_sreelakshmi?logo=twitter&style=for-the-badge" alt="its_sreelakshmi" /></a> </p>
 
-- 🔭 I’m currently working on [Nayara Shpping Website](https://github.com/sree-lakshmi-n/piggy-bank-app.git)
+- 🔭 I’m currently working on [Piggy Bank App](https://github.com/sree-lakshmi-n/piggy-bank-app.git)
 
 - 🌱 I’m currently learning **JS, ReactJS, and NodeJS**
 
